@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msqll&label=Profile%20views&color=0e75b6&style=flat" alt="msqll" /> </p>
 <h1 align="center">Hi 👋, I'm Elias</h1>
 
 - 🔭 I’m currently working on Aysu.tv <Github.com/aysutv>
@@ -10,3 +9,5 @@
 <p align="left">
 <a href="https://discord.gg/https://discord.com/invite/3TMxPcVKzV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/3TMxPcVKzV" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msqll&label=Profile%20views&color=0e75b6&style=flat" alt="msqll" /> </p>
