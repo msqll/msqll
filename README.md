@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
+<h1 align="center">Hey, I'm Elias🇮🇲</h1>
 
 🔭 I’m currently working on Aysu.tv <https://Github.com/aysutv>
 
